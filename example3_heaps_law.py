@@ -26,9 +26,9 @@ def growth_curve(tokens, step=1000):
 
 file_name = "korpus.txt"
 if not os.path.exists(file_name):
-    print(f"Plik '{file_name}' nie istnieje — tworzę przykładowy korpus.")
+    print(f"Plik '{file_name}' does not exist. Here you have simplified replacement.")
     dummy_content = (
-        "This is a sample text for the korpus. Lotem ipsum it dolor lolololo. "
+        "This is a sample text for the korpus. Lotem ipsum it dolor lolo lolo. "
         "It contains several words to test the tokenization and growth curve functions. "
         "Natural language processing is interesting. Machine learning is also interesting."
     )
