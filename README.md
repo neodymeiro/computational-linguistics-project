@@ -9,6 +9,6 @@ example1_bigram.py – simple bigram language model with Laplace smoothing and p
 
 example2_surprisal.py – computing word‑level surprisal in a bigram model
 
-example3_heaps_law.py – script illustrating Heaps’ / Herdan’s law for vocabulary growth.
+example3_heaps_law.py – script illustrating Heaps’s law for vocabulary growth.
 
-korpus.txt – example text file used by the Heaps’ law script, of course, its to small to illustrate it perfetlcy but I assume that this is enough for pedagogical purpouses.
+korpus.txt – example text file used by the example3, of course, its to small to illustrate it perfetlcy but I assume that this is enough for pedagogical purpouses.
